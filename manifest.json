@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"s4300"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "LOLZ!",
+		"description": "Adds \"LOLZ!\" to the end of each kill someone gets in chat. (English Only)",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "d67bf498-bd98-41e5-b5ff-629032597db5",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "41f65756-5e86-4f54-bdac-777a7b96b826",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
